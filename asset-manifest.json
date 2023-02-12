@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "//to-do/static/css/main.4a538530.css",
-    "main.js": "//to-do/static/js/main.43fd9e82.js",
-    "static/js/787.c6a9a21d.chunk.js": "//to-do/static/js/787.c6a9a21d.chunk.js",
-    "index.html": "//to-do/index.html",
-    "main.4a538530.css.map": "//to-do/static/css/main.4a538530.css.map",
-    "main.43fd9e82.js.map": "//to-do/static/js/main.43fd9e82.js.map",
-    "787.c6a9a21d.chunk.js.map": "//to-do/static/js/787.c6a9a21d.chunk.js.map"
+    "main.css": "/nancao0503.github.io/to-do/static/css/main.4a538530.css",
+    "main.js": "/nancao0503.github.io/to-do/static/js/main.6490179f.js",
+    "static/js/787.c6a9a21d.chunk.js": "/nancao0503.github.io/to-do/static/js/787.c6a9a21d.chunk.js",
+    "index.html": "/nancao0503.github.io/to-do/index.html",
+    "main.4a538530.css.map": "/nancao0503.github.io/to-do/static/css/main.4a538530.css.map",
+    "main.6490179f.js.map": "/nancao0503.github.io/to-do/static/js/main.6490179f.js.map",
+    "787.c6a9a21d.chunk.js.map": "/nancao0503.github.io/to-do/static/js/787.c6a9a21d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a538530.css",
-    "static/js/main.43fd9e82.js"
+    "static/js/main.6490179f.js"
   ]
 }
